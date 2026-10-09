@@ -1,0 +1,24 @@
+CONVITE ELECTRÓNICO — EFRAIME & EDNA
+
+Ficheiros:
+- index.html: página interactiva do convite.
+- convite.png: imagem do convite criado.
+- gospel.mp3: adicione aqui um ficheiro de música gospel em MP3 (não incluído).
+
+Como testar:
+1. Extraia o ZIP.
+2. Abra index.html num navegador.
+3. Para ouvir música, coloque um ficheiro chamado gospel.mp3 nesta mesma pasta.
+4. O botão de WhatsApp abre uma mensagem pronta; o utilizador escolhe o contacto.
+
+Para publicar:
+1. Crie uma conta na Vercel (vercel.com).
+2. A forma mais simples é importar a pasta do projecto por meio de um repositório GitHub.
+3. Publique o projecto como site estático e use index.html como página inicial.
+4. Depois da publicação, teste o link num telemóvel.
+
+Notas:
+- Este é um protótipo funcional local, ainda não publicado na Internet.
+- O mapa usa uma pesquisa por “Posto Policial Matlemele”; confirme a localização exacta antes de enviar.
+- A música não foi incluída por direitos de autor; use uma gravação que tenha autorização para utilizar.
+- O link de WhatsApp é genérico, para o utilizador escolher o contacto destinatário.
